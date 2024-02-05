@@ -51,7 +51,7 @@ ul {
   list-style-type: none;
   display: flex;
   justify-content: space-between;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   gap: 16px;
   padding: 8px;
 }
